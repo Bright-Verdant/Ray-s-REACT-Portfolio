@@ -35,7 +35,7 @@ function NavTabs({ currentPage, handlePageChange }) {
 
           className={currentPage === 'Folio' ? 'nav-link active' : 'nav-link'}
         >
-          Folio
+          Portfolio
         </a>
       </li>
       <li className="nav-item">
