@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bright-Verdant.github.io/Ray-s-REACT-Portfolio/static/css/main.6da8e273.css",
+    "main.js": "/Bright-Verdant.github.io/Ray-s-REACT-Portfolio/static/js/main.ccea01dd.js",
+    "index.html": "/Bright-Verdant.github.io/Ray-s-REACT-Portfolio/index.html",
+    "main.6da8e273.css.map": "/Bright-Verdant.github.io/Ray-s-REACT-Portfolio/static/css/main.6da8e273.css.map",
+    "main.ccea01dd.js.map": "/Bright-Verdant.github.io/Ray-s-REACT-Portfolio/static/js/main.ccea01dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6da8e273.css",
+    "static/js/main.ccea01dd.js"
+  ]
+}
