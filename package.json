@@ -2,7 +2,7 @@
   "homepage": "Bright-Verdant.github.io/Ray-s-REACT-Portfolio/",
   "name": "00-practice-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^11.1.0",
